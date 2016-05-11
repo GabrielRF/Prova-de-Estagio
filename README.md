@@ -1,3 +1,6 @@
+__PROVA CONCLUÍDA EM 10/05/2016__
+###### Foram feitas mudanças texto no dia 11/05/2016.
+---
 # Prova de Estagio
 ##### SEIT/COTIN/INTERLEGIS - Brasília, DF - Abril 2016.
 
@@ -17,11 +20,11 @@ Com o fim de contribuir, é necessário, antes de tudo, que o repositório seja 
 
 ### Ítem b (2 pontos)
 
-Percebeu que faltou um acento na palavra `Estagio` no início deste texto? Faça a correção e envie-a a este repositório. 
+Percebeu que faltou um acento na palavra `Estagio` no início deste texto? Faça um `fork`, corrija o acento e envie de volta ao repositório. 
 
 ##### Dicas de palavras chave: `commit`, `push`, `branch`, `fork`, `pull request`.
 
-_(`Branch`, `fork` e `pull request` são opcionais)_
+_(`Branch`, e `pull request` são opcionais)_
 
 ===
 
@@ -34,10 +37,12 @@ Sabemos que a vaga de estágio não é para programadores. Porém, desenvolver s
 ```
 
 Utilizando a API eternnoir/pyTelegramBotAPI, [disponível aqui](https://github.com/eternnoir/pyTelegramBotAPI), faça as devidas correções no bot para que ele funcione e o execute, utilizando o comando 
+###### TOKEN do bot expirado em 11/05/2016.
 ```
 python3 bot.py 'Nome do candidato'
 ```
 
-###### O uso de `Python` ou `Python3` fica a critério do candidato.
+###### O uso de `Python` ou `Python3` fica a critério do candidato. 
 
 ##### Atenção: Não troque o ID do BOT nem o ID de destino da mensagem.
+Prova-de-Estagio
